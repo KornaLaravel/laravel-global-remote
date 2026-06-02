@@ -1,8 +1,8 @@
 # Execute artisan commands on your server
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/global-laravel-remote.svg?style=flat-square)](https://packagist.org/packages/spatie/global-laravel-remote)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/global-laravel-remote/run-tests?label=tests)](https://github.com/spatie/global-laravel-remote/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/spatie/global-laravel-remote/Fix%20PHP%20code%20style%20issues?label=code%20style)](https://github.com/spatie/global-laravel-remote/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
+[![GitHub Tests Action Status](https://github.com/spatie/global-laravel-remote/actions/workflows/run-tests.yml/badge.svg)](https://github.com/spatie/global-laravel-remote/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub Code Style Action Status](https://github.com/spatie/global-laravel-remote/actions/workflows/fix-php-code-style-issues.yml/badge.svg)](https://github.com/spatie/global-laravel-remote/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/spatie/global-laravel-remote.svg?style=flat-square)](https://packagist.org/packages/spatie/global-laravel-remote)
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
